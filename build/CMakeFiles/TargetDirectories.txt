@@ -1,3 +1,0 @@
-/home/sayak/emmg_ws/build/CMakeFiles/my_project.dir
-/home/sayak/emmg_ws/build/CMakeFiles/edit_cache.dir
-/home/sayak/emmg_ws/build/CMakeFiles/rebuild_cache.dir

@@ -4,7 +4,7 @@ project(my_project)
 # Set C++ standard to C++11
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/modules/" ${CMAKE_MODULE_PATH})
+set(CMAKE_MODULE_PATH "/home/sayak/magnum_ws/magnum/modules/" ${CMAKE_MODULE_PATH})
 ## set(CMAKE_MODULE_PATH "/home/sayak/corrade/modules/" ${CMAKE_MODULE_PATH})
 ## set(CMAKE_PREFIX_PATH "/usr/share/cmake/Corrade" ${CMAKE_PREFIX_PATH})
 # Add Magnum package
